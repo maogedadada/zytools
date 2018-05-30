@@ -1,5 +1,4 @@
 apply plugin: 'com.android.library'
-apply plugin: 'maven'
 
 android {
   compileSdkVersion rootProject.ext.compileSdkVersion
@@ -8,7 +7,6 @@ android {
   defaultConfig {
     minSdkVersion rootProject.ext.libMinSdkVersion
     targetSdkVersion rootProject.ext.targetSdkVersion
-    consumerProguardFiles 'release-proguard.cfg'
     versionCode 1
     versionName version
   }
