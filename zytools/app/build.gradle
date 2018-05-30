@@ -24,8 +24,8 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.2.0'
     testCompile 'junit:junit:4.12'
 //    compile project(':baseadapter')
-    compile project(':okrx2')
-    compile project(':okserver')
+//    compile project(':okrx2')
+//    compile project(':okserver')
     compile 'com.google.code.gson:gson:2.8.0'
 //    compile project(':refresh')
 //    compile project(':magicindicator')
