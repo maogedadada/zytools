@@ -250,3 +250,5 @@ Step 2. Add the dependency
         app:riv_oval="true" />
 
 ```
+
+##[支持RxBinding](https://juejin.im/post/5afaa4726fb9a07ab458c732)
