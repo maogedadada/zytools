@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
         "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pager_navigator_layout_no_scroll.xml",
-        "source": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\bundles\\debug\\res\\layout\\pager_navigator_layout_no_scroll.xml"
-    },
-    {
         "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pager_navigator_layout_no_scroll.xml",
+        "source": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\bundles\\debug\\res\\layout\\pager_navigator_layout_no_scroll.xml"
     },
     {
         "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pager_navigator_layout.xml",
