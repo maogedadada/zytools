@@ -1,7 +1,27 @@
 [
     {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
@@ -12,12 +32,20 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
         "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
@@ -32,6 +60,18 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
         "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
@@ -42,5 +82,9 @@
     {
         "merged": "D:\\googledown\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\democode\\zytoo\\zytools\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\31b314f96734540b7a034fea79b808dc066298f3\\output\\res\\color\\abc_search_url_text.xml"
     }
 ]
