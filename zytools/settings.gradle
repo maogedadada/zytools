@@ -1,0 +1,1 @@
+include ':app', ':baseadapter', ':okrx2', ':okserver', ':okgo', ':refresh', ':magicindicator', ':qrlibs', ':roundedimageview', ':banner'

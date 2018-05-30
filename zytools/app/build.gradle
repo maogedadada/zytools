@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+        applicationId "com.zy.zytools"
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:25.2.0'
+    testCompile 'junit:junit:4.12'
+    compile project(':baseadapter')
+    compile project(':okrx2')
+    compile project(':okserver')
+    compile 'com.google.code.gson:gson:2.8.0'
+    compile project(':refresh')
+    compile project(':magicindicator')
+    compile project(':qrlibs')
+    compile project(':roundedimageview')
+    compile project(':banner')
+    compile 'com.github.bumptech.glide:glide:3.6.1'
+}
