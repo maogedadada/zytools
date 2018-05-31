@@ -1,10 +1,10 @@
-apply plugin: 'com.android.application'
-
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
     defaultConfig {
-        applicationId "com.zy.zytools"
+//        applicationId "com.zy.zytools"
         minSdkVersion rootProject.ext.libMinSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -33,4 +33,5 @@ dependencies {
     compile project(':roundedimageview')
     compile project(':banner')
     compile 'com.github.bumptech.glide:glide:3.6.1'
+    compile project(':okgo')
 }
