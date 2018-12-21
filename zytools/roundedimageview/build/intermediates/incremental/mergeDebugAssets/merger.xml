@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\democode\zytoo\zytools\roundedimageview\src\main\assets"/><source path="D:\democode\zytoo\zytools\roundedimageview\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\democode\zytoo\zytools\roundedimageview\src\debug\assets"/></dataSet></merger>
