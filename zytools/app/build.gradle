@@ -33,4 +33,5 @@ dependencies {
     compile project(':roundedimageview')
     compile project(':banner')
     compile 'com.github.bumptech.glide:glide:3.6.1'
+    compile 'com.lzx:StarrySkyJava:2.1.6'
 }
